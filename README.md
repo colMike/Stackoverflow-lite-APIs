@@ -57,14 +57,11 @@ Ensure that postman is installed.
 From the terminal,locate the repository and run python run.py
 Open postman and test the endpoints
 
-
+## Contribution
+Fork this repository, contribute then create a pull request to the develop branch.
 
 ## Credits
 This challenge was part of the Bootcamp 36 NBO Andela.
 
 ## Author
 Michael Mbugua.
-
-## Contribution
-Fork this repository, contribute then create a pull request to the gh-pages branch.
-
