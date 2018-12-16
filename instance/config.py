@@ -1,5 +1,4 @@
-import os """We import the OS since it is from the OS that
-we have set all the requrements in the venv."""
+import os 
 
 class Config(object):
     """Parent configuration class."""
