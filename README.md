@@ -1,18 +1,15 @@
 # Stackoverflow-lite-APIs
 
-# Stackoverflow-lite-application endpoints
-
-
 ## The following are API endpoints that allow a user to:
     - Create an account and log in.
     - A user can post questions.
     - A user can delete questions they had posted.
     - A user can post answers
     - A user can view the answers
-    - A user can accept an answer out of all the answers to his/her        queston as they preferred answer
+    - A user can accept an answer out of all the answers to his/her queston as they preferred answer
     - A user can upvote or downvote an answer.
     - A user can comment on an answer.
-    - A user can fetch all questions he/she has ever asked on the          platform
+    - A user can fetch all questions he/she has ever asked on the platform
     - A user can search for questions on the platform
     - A user can view questions with the most answers.
 
@@ -57,14 +54,11 @@ Ensure that postman is installed.
 From the terminal,locate the repository and run python run.py
 Open postman and test the endpoints
 
-
+## Contribution
+Fork this repository, contribute then create a pull request to the develop branch.
 
 ## Credits
 This challenge was part of the Bootcamp 36 NBO Andela.
 
 ## Author
 Michael Mbugua.
-
-## Contribution
-Fork this repository, contribute then create a pull request to the gh-pages branch.
-
