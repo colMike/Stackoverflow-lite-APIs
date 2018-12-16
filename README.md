@@ -1,8 +1,5 @@
 # Stackoverflow-lite-APIs
 
-# Stackoverflow-lite-application endpoints
-
-
 ## The following are API endpoints that allow a user to:
     - Create an account and log in.
     - A user can post questions.
