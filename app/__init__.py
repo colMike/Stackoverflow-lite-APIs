@@ -8,13 +8,10 @@ questions = [
             {'title': 'Title 3', 'body': 'Body 3', 'category': 'Category 3'}
         ]
 
-
-
 # List all questions
 @app.route("/questions", methods=['GET'])
 def returnAll():
     return jsonify({"questions": questions})
-
 
 # post a question
 @app.route("/add", methods=['POST'])
